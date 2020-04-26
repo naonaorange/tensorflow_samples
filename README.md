@@ -6,3 +6,4 @@ The tensorflow samples is included in this package
 
 - Python 3.7
 - Tensorflow 2.0
+- matplotlib
